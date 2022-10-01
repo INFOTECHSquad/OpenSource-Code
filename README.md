@@ -1,7 +1,7 @@
 # ProgrammingSources
 
 <!-- image tag for thumbnail -->
-<img src="https://werk.noditt.tech/wp-content/uploads/2022/10/Frame-.webp" alt="Werk"/>
+<img src="https://www.canva.com/design/DAFN1nGsshA/aQg_ZnSa1ho9QbYvdZhtzQ/edit?utm_content=DAFN1nGsshA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Werk"/>
 
 # Basic Programs
 
