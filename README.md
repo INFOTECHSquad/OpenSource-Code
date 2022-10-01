@@ -1,7 +1,7 @@
 # ProgrammingSources
 
 <!-- image tag for thumbnail -->
-<img src="https://www.canva.com/design/DAFN1nGsshA/uQZU6tBVO7VujOcJLgxdVg/view?utm_content=DAFN1nGsshA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<img src="https://drive.google.com/file/d/1JTwKA1lFyjoWIfRuIsfxDCtSa7Gz3mAm/view?usp=drivesdk"/>
 
 # Basic Programs
 
@@ -28,3 +28,4 @@ A collection of basic programs from various different programming languages.
 **4) Only one PR per GitHub account.**
 
 ### That's it. Happy Contributing!
+
