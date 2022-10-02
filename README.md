@@ -1,7 +1,7 @@
 # ProgrammingSources
 
 <!-- image tag for thumbnail -->
-<img src="ASSETS(README)/Header.png">
+<img src="asset/Header.png">
 
 A collection of basic programs from various different programming languages.
 
