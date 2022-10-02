@@ -33,6 +33,6 @@ A collection of basic programs from various different programming languages.
 
 | John Moren Dinela                                                    | John Allen Florencio                                              | Lee Angelo Mollo                                                |                                             |                                                     |
 | ------------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img width="250px" src="https://avatars.githubusercontent.com/u/64911590?s=96&v=4"> | <img width="250px" src="https://github.com/vilsi12.png"> | <img width="250px" src="https://github.com/choudharyhemu.png"> | <img width="250px" src="https://github.com/sushant4191.png"> | <img width="250px" src="https://github.com/rohan-kulkarni-25.png"> |
+| <img width="250px" src="https://avatars.githubusercontent.com/u/64911590?s=96&v=4"> | <img width="250px" src="https://avatars.githubusercontent.com/u/74499662?v=4"> | <img width="250px" src="https://avatars.githubusercontent.com/u/86811646?v=4"> | <img width="250px" src="https://github.com/morencloud.png"> | <img width="250px" src="https://github.com/rohan-kulk-25.png"> |
 
 </div>
