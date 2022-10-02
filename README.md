@@ -1,7 +1,7 @@
 # ProgrammingSources
 
 <!-- image tag for thumbnail -->
-<img src="FA18240A-193A-4418-AD0A-662F6F5362B4.png">
+<img src="ASSETS(README)/Header.png">
 
 A collection of basic programs from various different programming languages.
 
@@ -18,6 +18,9 @@ A collection of basic programs from various different programming languages.
     Python -> program.py
     Rust -> program.rs
     PHP -> program.php
+    HTML -> index.html
+    
+    Note: Put your project in one folder before commiting changes
     ```
 
 2.  Pre-Existing programs can be refactored and made a pull request but if a program already exists in the repo, donot make another pull request for the same program.
