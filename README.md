@@ -1,9 +1,7 @@
 # ProgrammingSources
 
 <!-- image tag for thumbnail -->
-<img src="https://1drv.ms/u/s!AkYzfv-bMlxxpTL4GDZvwMOuss5t">
-
-# Basic Programs
+<img src="FA18240A-193A-4418-AD0A-662F6F5362B4.png">
 
 A collection of basic programs from various different programming languages.
 
