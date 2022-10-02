@@ -30,6 +30,8 @@ A collection of basic programs from various different programming languages.
 
 ### That's it. Happy Contributing!
 
+## Contributer
+
 <h1 align="center">
 <a href= "https://tech-of-amang.github.io/ProgrammingSources/tributeforcontributer.html">TRIBUTE TO CONTRIBUTORS</a>
 </div>
