@@ -30,6 +30,10 @@ A collection of basic programs from various different programming languages.
 
 ### That's it. Happy Contributing!
 
+<h1 align="center">
+<a href= "https://tech-of-amang.github.io/ProgrammingSources/tributeforcontributer.html">TRIBUTE TO CONTRIBUTORS</a>
+</div>
+
 <h1 align="center">Project Maintainers ⛑️</h1>
 
 <div align="center">
@@ -39,3 +43,5 @@ A collection of basic programs from various different programming languages.
 | <img width="250px" src="https://avatars.githubusercontent.com/u/64911590?s=96&v=4"> | <img width="250px" src="https://avatars.githubusercontent.com/u/74499662?v=4"> | <img width="250px" src="https://avatars.githubusercontent.com/u/86811646?v=4"> | <img width="250px" src="https://github.com/morencloud.png"> | <img width="250px" src="https://github.com/rohan-kulk-25.png"> |
 
 </div>
+
+
