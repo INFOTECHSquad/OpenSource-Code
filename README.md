@@ -33,7 +33,7 @@ A collection of basic programs from various different programming languages.
 ## Contributer
 
 <h1 align="center">
-<a href= "https://github.com/INFOTECHSquad/Hacktoberfest2022/tributeforcontributer.html">TRIBUTE TO CONTRIBUTORS</a>
+<a href= "https://INFOTECHSquad.github.io/Hacktoberfest2022/tributeforcontributer.html">TRIBUTE TO CONTRIBUTORS</a>
 </div>
 
 <h1 align="center">Project Maintainers ⛑️</h1>
