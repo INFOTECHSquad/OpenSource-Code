@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=process
+comment1.params=amount\ input
+comment1.target=void\ phpTo(double,\ int)
+comment2.params=amount\ input
+comment2.target=void\ usdTo(double,\ int)
+comment3.params=amount\ input
+comment3.target=void\ poundTo(double,\ int)
+comment4.params=amount\ input
+comment4.target=void\ yenTo(double,\ int)
+numComments=5

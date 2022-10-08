@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Conversion
+comment1.params=amount
+comment1.target=void\ phpToUsd(double)
+comment10.params=amount
+comment10.target=double\ yenToPhp(double)
+comment11.params=amount
+comment11.target=double\ yenToUsd(double)
+comment12.params=amount
+comment12.target=double\ yenToPound(double)
+comment2.params=amount
+comment2.target=double\ phpToPound(double)
+comment3.params=amount
+comment3.target=double\ phpToYen(double)
+comment4.params=amount
+comment4.target=double\ usdToPhp(double)
+comment5.params=amount
+comment5.target=double\ usdToPound(double)
+comment6.params=amount
+comment6.target=double\ usdToYen(double)
+comment7.params=amount
+comment7.target=double\ poundToPhp(double)
+comment8.params=amount
+comment8.target=double\ poundToUsd(double)
+comment9.params=amount
+comment9.target=double\ poundToYen(double)
+numComments=13
